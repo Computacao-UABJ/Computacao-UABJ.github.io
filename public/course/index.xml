@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Courses on Educenter | hugo education template</title>
-    <link>/course.html</link>
-    <description>Recent content in Our Courses on Educenter | hugo education template</description>
+    <title>Nos cours on Engenharia de Computação</title>
+    <link>/course/</link>
+    <description>Recent content in Nos cours on Engenharia de Computação</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Algorithm</title>
-      <link>/course/course-5.html</link>
+      <title>Algorithme</title>
+      <link>/course/course-5/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>/course/course-5.html</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/course/course-5/</guid>
+      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Artificial Intelligence</title>
-      <link>/course/course-3.html</link>
+      <title>Intelligence artificielle</title>
+      <link>/course/course-3/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>/course/course-3.html</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/course/course-3/</guid>
+      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>/course/course-4.html</link>
+      <link>/course/course-4/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>/course/course-4.html</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/course/course-4/</guid>
+      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Mathematics</title>
-      <link>/course/course-2.html</link>
+      <title>Mathématiques</title>
+      <link>/course/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>/course/course-2.html</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/course/course-2/</guid>
+      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Photography</title>
-      <link>/course/course-1.html</link>
+      <title>Photographie</title>
+      <link>/course/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>/course/course-1.html</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/course/course-1/</guid>
+      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Vlogging</title>
-      <link>/course/course-6.html</link>
+      <link>/course/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>/course/course-6.html</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/course/course-6/</guid>
+      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
