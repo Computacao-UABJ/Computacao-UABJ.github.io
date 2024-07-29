@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Educenter | hugo education template</title>
+    <link>/categories.html</link>
+    <description>Recent content in Categories on Educenter | hugo education template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation System</title>
+      <link>/categories/automation-system.html</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/categories/automation-system.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/categories/deep-learning.html</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/categories/deep-learning.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eco System</title>
+      <link>/categories/eco-system.html</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/categories/eco-system.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education System</title>
+      <link>/categories/education-system.html</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/categories/education-system.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English Learning</title>
+      <link>/categories/english-learning.html</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/categories/english-learning.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathmatics Learning</title>
+      <link>/categories/mathmatics-learning.html</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/categories/mathmatics-learning.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
