@@ -3,10 +3,10 @@
 baseURL = "/"
 uglyURLs = true
 relativeURLs = true
-title = "Educenter | hugo education template"
+title = "Engenharia de Computação"
 theme = "educenter-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "America/Recife"
 # post pagination
 paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -96,12 +96,12 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Site do Curso de Engenharia da Computação"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Rodovia PE-166, Km 03, Euno Andrade da Silva."
+mobile = "+55 (81) 3320-6930"
+email = "coord.computacao.uabj@ufrpe.br"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -125,8 +125,8 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "-8.3270776"
+map_longitude = "-36.4053281"
 map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
@@ -135,38 +135,127 @@ enable = true
 expire_days = 2
   
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "facebook"
+#icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "twitter"
+#icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/uabj.ufrpe/"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/Computacao-UABJ"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
+
+################################### Portugues language #####################################
+[Languages.br]
+languageName = "Br"
+languageCode = "pt-br"
+contentDir = "content/portugues"
+weight = 1
+
+[Languages.br.params]
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2024 Coodenação de Engenharia da Computação"
+
+
+################### French navigation ####################
+
+# main menu
+[[Languages.br.menu.main]]
+name = "Sobre"
+url = "about/"
+weight = 1
+
+[[Languages.br.menu.main]]
+name = "Curso"
+url = "course/"
+weight = 2
+
+[[Languages.br.menu.main]]
+weight = 3
+name = "Pages"
+hasChildren = true
+
+  [[Languages.br.menu.main]]
+  parent = "Pages"
+  name = "Professores"
+  url = "teacher/"
+
+  [[Languages.br.menu.main]]
+  parent = "Pages"
+  name = "Notícias"
+  url = "notice/"
+
+  [[Languages.br.menu.main]]
+  parent = "Pages"
+  name = "Eventos"
+  url = "event/"
+
+  [[Languages.br.menu.main]]
+  parent = "Pages"
+  name = "Cursos"
+  url = "scholarship/"
+
+  [[Languages.br.menu.main]]
+  parent = "Pages"
+  name = "Pesquisa"
+  url = "research/"
+  
+#[[Languages.br.menu.main]]
+#name = "blog"
+#url = "blog/"
+#weight = 4
+  
+[[Languages.br.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+
+# footer menu
+
+[[Languages.br.menu.footer]]
+name = "Professores"
+url = "teacher/"
+
+[[Languages.br.menu.footer]]
+name = "Notícias"
+url = "notice/"
+
+[[Languages.br.menu.footer]]
+name = "Eventos"
+url = "event/"
+
+[[Languages.br.menu.footer]]
+name = "Cursos"
+url = "scholarship/"
+
+[[Languages.br.menu.footer]]
+name = "Pesquisa"
+url = "research/"
 
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 
 [Languages.en.params]
 home = "Home"
@@ -218,15 +307,15 @@ hasChildren = true
   name = "research"
   url = "research/"
   
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog/"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "blog/"
+#weight = 4
   
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 4
 
 
 # footer menu
@@ -248,97 +337,5 @@ name = "scholarship"
 url = "scholarship/"
 
 [[Languages.en.menu.footer]]
-name = "research"
-url = "research/"
-
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-
-[Languages.fr.params]
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
-
-
-
-################### French navigation ####################
-
-# main menu
-[[Languages.fr.menu.main]]
-name = "À propos"
-url = "about/"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "Cours"
-url = "course/"
-weight = 2
-
-[[Languages.fr.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Évènement"
-  url = "event/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Cursus"
-  url = "scholarship/"
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
-  
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "blog/"
-weight = 4
-  
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
-
-
-# footer menu
-
-[[Languages.fr.menu.footer]]
-name = "teacher"
-url = "teacher/"
-
-[[Languages.fr.menu.footer]]
-name = "notice"
-url = "notice/"
-
-[[Languages.fr.menu.footer]]
-name = "event"
-url = "event/"
-
-[[Languages.fr.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
-
-[[Languages.fr.menu.footer]]
 name = "research"
 url = "research/"
