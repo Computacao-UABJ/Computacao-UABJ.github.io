@@ -4,36 +4,25 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "A Unidade Acadêmica de Belo Jardim"
+      content : "A UABJ é uma extensão da Universidade Federal Rural de Pernambuco (UFRPE) localizada na cidade de Belo Jardim, no estado de Pernambuco, Brasil. A UABJ foi criada com o objetivo de expandir o acesso ao ensino superior de qualidade na região agreste de Pernambuco, contribuindo para o desenvolvimento local e regional."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Dúvidas?"
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "A Unidade Acadêmica de Belo Jardim"
+      content : "A UABJ é uma extensão da Universidade Federal Rural de Pernambuco (UFRPE) localizada na cidade de Belo Jardim, no estado de Pernambuco, Brasil. A UABJ foi criada com o objetivo de expandir o acesso ao ensino superior de qualidade na região agreste de Pernambuco, contribuindo para o desenvolvimento local e regional."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
+        label : "Dúvidas?"
         link : "contact/"
 
 

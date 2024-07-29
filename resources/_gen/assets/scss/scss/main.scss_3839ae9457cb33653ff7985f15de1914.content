@@ -230,7 +230,7 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #1a1a37;
+    background: #1b2d4f;
     opacity: .8; }
 
 .outline-0 {
@@ -243,7 +243,7 @@ a h4:hover {
   background: #ffbc3b !important; }
 
 .bg-secondary {
-  background: #1a1a37 !important; }
+  background: #1b2d4f !important; }
 
 .bg-gray {
   background: #f8f8f8; }
@@ -452,12 +452,12 @@ textarea.form-control {
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {
-      background: #1a1a37; }
+      background: #1b2d4f; }
       .navigation .navbar-brand {
         padding: 12px 0; } }
 @media (max-width: 991px) {
   .navbar-collapse {
-    background: #1a1a37; } }
+    background: #1b2d4f; } }
 
 .navbar-nav {
   padding-left: 50px;
@@ -465,9 +465,9 @@ textarea.form-control {
   @media (max-width: 991px) {
     .navbar-nav {
       padding-left: 0;
-      background: #1a1a37; } }
+      background: #1b2d4f; } }
 .nav-bg {
-  background-color: #1a1a37; }
+  background-color: #1b2d4f; }
 
 .nav-item {
   margin: 0 15px;
