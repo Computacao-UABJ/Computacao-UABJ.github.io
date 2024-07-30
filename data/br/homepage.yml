@@ -1,107 +1,104 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  # bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Votre brillant avenir est notre mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      # animation_in : "left"
-      #animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Postuler maintenant"
-        link : "contact/"
-
-    # slider item loop
-    - title : "Votre brillant avenir est notre mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "A Unidade Acadêmica de Belo Jardim"
+      content : "A UABJ é uma extensão da Universidade Federal Rural de Pernambuco (UFRPE) localizada na cidade de Belo Jardim, no estado de Pernambuco, Brasil. A UABJ foi criada com o objetivo de expandir o acesso ao ensino superior de qualidade na região agreste de Pernambuco, contribuindo para o desenvolvimento local e regional."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Postuler"
+        label : "Dúvidas?"
+        link : "contact/"
+
+    # slider item loop
+    - title : "A Unidade Acadêmica de Belo Jardim"
+      content : "A UABJ é uma extensão da Universidade Federal Rural de Pernambuco (UFRPE) localizada na cidade de Belo Jardim, no estado de Pernambuco, Brasil. A UABJ foi criada com o objetivo de expandir o acesso ao ensino superior de qualidade na região agreste de Pernambuco, contribuindo para o desenvolvimento local e regional."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Dúvidas?"
         link : "contact/"
 
 ############################### Banner feature ###############################
-banner_feature:
-  enable : true
-  image : "images/banner/banner-feature.png"
-  feature_item:
-    # feature item loop
-    - name : "Bourses académiques"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+# banner_feature:
+#   enable : true
+#   image : "images/banner/banner-feature.png"
+#   feature_item:
+#     # feature item loop
+#     - name : "Bourses académiques"
+#       icon : "ti-book" # icon pack : https://themify.me/themify-icons
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
-    # feature item loop
-    - name : "Notre bureau"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+#     # feature item loop
+#     - name : "Notre bureau"
+#       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
-    # feature item loop
-    - name : "Nos accomplissements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+#     # feature item loop
+#     - name : "Nos accomplissements"
+#       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
-    # feature item loop
-    - name : "Admission"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+#     # feature item loop
+#     - name : "Admission"
+#       icon : "ti-write" # icon pack : https://themify.me/themify-icons
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "À propos d’Educenter"
+  title : "Engenharia da Computação"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Atenta às demandas sociais, econômicas e culturais de Pernambuco e, em especial, da Região do Agreste do referido estado, a UFRPE através da Unidade Acadêmica de Belo Jardim (UABJ), cria o curso de Bacharelado em Engenharia de Computação. Além disso, sua proposta pedagógica orienta-se por uma concepção ativa dos processos de ensino e aprendizagem, incorporando metodologias que incentivam a criatividade e autonomia dos estudantes. Neste sentido, destaca-se o ensino híbrido e a realização de projetos interdisciplinares por meio da Problem Based Learning – PBL em diferentes etapas do curso."
   button:
     enable : true
-    label : "En savoir plus"
+    label : "Saiba mais"
     link : "about/"
 
 
 ############################# Course ################################
-course:
-  enable : true
-  title : "Notre cours"
-  # course item comes from "content/**/course" folder.
+# course:
+#   enable : true
+#   title : "Nossas Disciplinas"
+#   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Cliquez pour vous joindre à l’atelier avancé"
-  title : "Apprentissage en réseautique avancée"
-  button:
-    enable : true
-    label : "Se joindre"
-    link : "contact/"
+# cta:
+#   enable : true
+#   subtitle : "Cliquez pour vous joindre à l’atelier avancé"
+#   title : "Apprentissage en réseautique avancée"
+#   button:
+#     enable : true
+#     label : "Se joindre"
+#     link : "contact/"
 
 
 ######################## Success story #############################
-success_story:
-  enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Histoires de réussites"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+# success_story:
+#   enable : true
+#   bg_image : "images/backgrounds/success-story.jpg"
+#   title : "Histoires de réussites"
+#   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
             
             
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+#   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+#   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+#   # video link
+#   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
 ############################# event ################################
-event:
-  enable : true
-  title : "Événements à venir"
-  # event item comes from "content/**/event" folder.
+# event:
+#   enable : true
+#   title : "Événements à venir"
+#   # event item comes from "content/**/event" folder.
 
   
 ########################### funfacts ############################
@@ -109,27 +106,27 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "ENSEIGNANTS"
-      count : "60"
+    - name : "PROFESSORES"
+      count : "23"
 
     # funfact item loop
-    - name : "COURS"
+    - name : "DISCIPLINAS"
       count : "50"
 
     # funfact item loop
-    - name : "ÉTUDIANTS"
-      count : "1000"
+    - name : "ESTUDANTES"
+      count : "250"
 
-    # funfact item loop
-    - name : "CLIENTS SATISFAITS"
-      count : "1400"
+    # # funfact item loop
+    # - name : "CLIENTS SATISFAITS"
+    #   count : "1400"
 
 # funfact is for about page
 
 
 
 ############################# blog ################################
-blog:
-  enable : true
-  title : "DERNIÈRES NOUVELLES"
-  # blog item comes from "content/**/blog" folder.
+# blog:
+#   enable : true
+#   title : "DERNIÈRES NOUVELLES"
+#   # blog item comes from "content/**/blog" folder.

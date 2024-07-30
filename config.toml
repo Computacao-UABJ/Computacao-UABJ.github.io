@@ -182,39 +182,30 @@ url = "about/"
 weight = 1
 
 [[Languages.br.menu.main]]
-name = "Curso"
-url = "course/"
+name = "Professores"
+url = "teacher/"
 weight = 2
 
 [[Languages.br.menu.main]]
+name = "Pesquisa"
+url = "research/"
 weight = 3
-name = "Pages"
+
+[[Languages.br.menu.main]]
+weight = 4
+name = "Laboratórios"
 hasChildren = true
 
   [[Languages.br.menu.main]]
-  parent = "Pages"
-  name = "Professores"
-  url = "teacher/"
-
-  [[Languages.br.menu.main]]
-  parent = "Pages"
-  name = "Notícias"
+  parent = "Laboratórios"
+  name = "Horários"
   url = "notice/"
 
   [[Languages.br.menu.main]]
-  parent = "Pages"
-  name = "Eventos"
+  parent = "Laboratórios"
+  name = "Descrição"
   url = "event/"
 
-  [[Languages.br.menu.main]]
-  parent = "Pages"
-  name = "Cursos"
-  url = "scholarship/"
-
-  [[Languages.br.menu.main]]
-  parent = "Pages"
-  name = "Pesquisa"
-  url = "research/"
   
 #[[Languages.br.menu.main]]
 #name = "blog"
@@ -224,7 +215,7 @@ hasChildren = true
 [[Languages.br.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 4
+weight = 5
 
 
 # footer menu
