@@ -12,7 +12,7 @@ course: "Engenharia da Computação"
 # biography
 bio: "Possui uma sólida experiência acadêmica e profissional, combinando conhecimento teórico aprofundado com prática no campo. Ele é especializado em Engenharia de Software, com diversas publicações e pesquisas em sua área, além de ter atuado na indústria."
 # interest
-interest: ["Engenharia da Computação",Data Analytics","Internet das Coisas"]
+interest: ["Engenharia da Computação","Data Analytics","Internet das Coisas"]
 # contact info
 contact:
   # contact item loop
