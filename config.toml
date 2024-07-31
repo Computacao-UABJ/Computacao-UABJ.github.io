@@ -115,7 +115,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -198,12 +198,12 @@ hasChildren = true
 
   [[Languages.br.menu.main]]
   parent = "Laboratórios"
-  name = "Horários"
+  name = "Lab UABJ 1"
   url = "notice/"
 
   [[Languages.br.menu.main]]
   parent = "Laboratórios"
-  name = "Descrição"
+  name = "Lab Xucuru"
   url = "event/"
 
   
@@ -224,17 +224,17 @@ weight = 5
 name = "Professores"
 url = "teacher/"
 
-[[Languages.br.menu.footer]]
-name = "Notícias"
-url = "notice/"
+# [[Languages.br.menu.footer]]
+# name = "Notícias"
+# url = "notice/"
 
-[[Languages.br.menu.footer]]
-name = "Eventos"
-url = "event/"
+# [[Languages.br.menu.footer]]
+# name = "Eventos"
+# url = "event/"
 
-[[Languages.br.menu.footer]]
-name = "Cursos"
-url = "scholarship/"
+# [[Languages.br.menu.footer]]
+# name = "Cursos"
+# url = "scholarship/"
 
 [[Languages.br.menu.footer]]
 name = "Pesquisa"
