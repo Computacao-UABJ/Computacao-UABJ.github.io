@@ -199,12 +199,12 @@ hasChildren = true
   [[Languages.br.menu.main]]
   parent = "Laboratórios"
   name = "Lab UABJ 1"
-  url = "notice/"
+  url = "labs/"
 
   [[Languages.br.menu.main]]
   parent = "Laboratórios"
   name = "Lab Xucuru"
-  url = "event/"
+  url = "labs/"
 
   
 #[[Languages.br.menu.main]]
