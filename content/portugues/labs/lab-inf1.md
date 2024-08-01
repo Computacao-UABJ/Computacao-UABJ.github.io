@@ -29,4 +29,4 @@ Para reservar o laboratório, faça sua requisição no seguinte link: **[Reserv
 
 ### Horário de Aulas
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_qbu3cnf7vvga4hj4sgn7tv4drg%40group.calendar.google.com&ctz=America%2FRecife" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_qbu3cnf7vvga4hj4sgn7tv4drg%40group.calendar.google.com&ctz=America%2FRecife" style="border: 0" width="800" mode="week" height="600" frameborder="0" scrolling="no"></iframe>
