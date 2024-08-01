@@ -80,7 +80,7 @@
   translation: Entre seu email...
 
 - id: company
-  translation: compania
+  translation: UABJ
 
 - id: links
   translation: links
@@ -108,3 +108,6 @@
 
 - id: download
   translation: Download
+
+- id: register_now
+  translation: Reserve Agora
