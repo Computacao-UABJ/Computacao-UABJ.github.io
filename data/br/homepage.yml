@@ -7,23 +7,23 @@ slider:
     - title : "A Unidade Acadêmica de Belo Jardim"
       content : "A UABJ é uma extensão da Universidade Federal Rural de Pernambuco (UFRPE) localizada na cidade de Belo Jardim, no estado de Pernambuco, Brasil. A UABJ foi criada com o objetivo de expandir o acesso ao ensino superior de qualidade na região agreste de Pernambuco, contribuindo para o desenvolvimento local e regional."
       animation_in : "left"
-      animation_out : "right"
+      # animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Dúvidas?"
         link : "contact/"
 
-    # slider item loop
-    - title : "A Unidade Acadêmica de Belo Jardim"
-      content : "A UABJ é uma extensão da Universidade Federal Rural de Pernambuco (UFRPE) localizada na cidade de Belo Jardim, no estado de Pernambuco, Brasil. A UABJ foi criada com o objetivo de expandir o acesso ao ensino superior de qualidade na região agreste de Pernambuco, contribuindo para o desenvolvimento local e regional."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Dúvidas?"
-        link : "contact/"
+    # # slider item loop
+    # - title : "A Unidade Acadêmica de Belo Jardim"
+    #   content : "A UABJ é uma extensão da Universidade Federal Rural de Pernambuco (UFRPE) localizada na cidade de Belo Jardim, no estado de Pernambuco, Brasil. A UABJ foi criada com o objetivo de expandir o acesso ao ensino superior de qualidade na região agreste de Pernambuco, contribuindo para o desenvolvimento local e regional."
+    #   animation_in : "left"
+    #   animation_out : "right"
+    #   # available animation : left, right, up, down
+    #   button:
+    #     enable : true
+    #     label : "Dúvidas?"
+    #     link : "contact/"
 
 ############################### Banner feature ###############################
 # banner_feature:
