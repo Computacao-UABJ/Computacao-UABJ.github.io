@@ -22,10 +22,6 @@ Nosso laboratório é moderno e bem equipado, ideal para estudos e pesquisas. Di
 
 <br/>
 
-### Reserva de Laboratório
-
-Para reservar o laboratório, faça sua requisição no seguinte link: **[Reserva de Laboratório](https://forms.gle/MUiS3cRR363ChKjR7)**
-
 ### Horário de Aulas
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_0c8b8bc3379615eff8cd95edce85df1d1bb937317602013c6b98ac8a170085bd%40group.calendar.google.com&ctz=America%2FRecife" style="border: 0" width="800" height="600" frameborder="0" mode="week" scrolling="no"></iframe>

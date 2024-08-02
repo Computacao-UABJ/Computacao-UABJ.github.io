@@ -5,13 +5,13 @@
   <div class="container">
     <!-- course info -->
     <div class="row align-items-center mb-5">
-      <div class="col-xl-3 order-1 col-sm-6 mb-4 mb-xl-0">
+      <div class="col-xl-4 order-1 col-sm-6 mb-4 mb-xl-0">
         <h2>{{ .Title }}</h2>
       </div>
       <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
       </div>
-      <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
-        <a href="{{ .Params.Apply_url | safeURL }}" class="btn btn-primary">{{ i18n "register_now" }}</a>
+      <div class="col-xl-2 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
+        <a href="{{ .Params.Apply_url | safeURL }}" target="_blank" class="btn btn-primary">{{ i18n "register_now" }}</a>
       </div>
       <!-- border -->
       <div class="col-12 mt-4 order-4">
@@ -23,6 +23,7 @@
       <div class="col-12 mb-4 content">
         {{ .Content }}
       </div>
+    </div>
   </div>
 </section>
 <!-- /section -->

@@ -10,6 +10,11 @@
         {{ with .Params.image }}
         <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
         {{ end }}
+      </div>
+    </div>
+    <!-- course details -->
+    <div class="row">
+      <div class="col-12 mb-4 content">
         {{ .Content }}
       </div>
     </div>

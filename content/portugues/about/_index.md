@@ -17,11 +17,11 @@ Atenta às demandas sociais, econômicas e culturais de Pernambuco e, em especia
 
 Formar engenheiros de computação com perfil generalista, humanista, crítico e reflexivo, capacitados a absorver e desenvolver novas tecnologias, estimulando a sua atuação crítica e criativa na identificação e resolução de problemas, considerando seus aspectos políticos, econômicos, sociais, ambientais e culturais, com visão ética e humanística, em atendimento às demandas da sociedade. Em especial:
 
- * Estimular, ao longo do curso, a criticidade, a criatividade, o trabalho multidisciplinar, iniciativa e liderança, dentre outras atitudes;
- * Incentivar a criação e o fortalecimento de uma cultura de desenvolvimento de soluções e serviços de computação no Nordeste, e mais especificamente do estado de Pernambuco;
- * Produzir conhecimento técnico e científico para as organizações da região por meio de parcerias com empresas locais, ONGs, instituições públicas/privadas, e projetos de pesquisa e de extensão, que exaltem a capacidade produtiva dos profissionais da região;
- * Formar profissionais capacitados para exercer a profissão de Engenheiro de Computação, respeitando os princípios éticos e científicos que comandam a profissão;
- * Formar profissionais conscientes da necessidade de contínua atualização profissional.
+ - Estimular, ao longo do curso, a criticidade, a criatividade, o trabalho multidisciplinar, iniciativa e liderança, dentre outras atitudes;
+ - Incentivar a criação e o fortalecimento de uma cultura de desenvolvimento de soluções e serviços de computação no Nordeste, e mais especificamente do estado de Pernambuco;
+ - Produzir conhecimento técnico e científico para as organizações da região por meio de parcerias com empresas locais, ONGs, instituições públicas/privadas, e projetos de pesquisa e de extensão, que exaltem a capacidade produtiva dos profissionais da região;
+ - Formar profissionais capacitados para exercer a profissão de Engenheiro de Computação, respeitando os princípios éticos e científicos que comandam a profissão;
+ - Formar profissionais conscientes da necessidade de contínua atualização profissional.
 
 
 #### Campo de Atuação Profissional
