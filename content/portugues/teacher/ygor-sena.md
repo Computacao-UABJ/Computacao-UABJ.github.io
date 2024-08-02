@@ -54,6 +54,6 @@ contact:
 type: "teacher"
 ---
 
-### À propos de moi
+### Resumo
 
 Mestre em Ciência da Computação pela Universidade Federal de Pernambuco (2014) e bacharel em Sistemas de Informação pela Universidade de Pernambuco (2011). Atualmente é Professor Assistente do Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE) - Unidade Acadêmica de Belo Jardim (UABJ).
