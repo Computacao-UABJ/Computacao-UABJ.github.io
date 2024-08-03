@@ -70,7 +70,7 @@ jobs:
     needs: build
     steps:
       - name: Read a Variable
-        run: echo "The deployment URL is ${{ vars.API_KEY }}"
+        run: echo "The deployment URL is ${{ secrets.API_KEY }}"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
