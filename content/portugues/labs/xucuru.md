@@ -6,7 +6,8 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Informações sobre o Laboratório Xucuru da UABJ"
 # aplly url
-apply_url : "https://forms.gle/MUiS3cRR363ChKjR7"
+apply_url : "https://calendar.app.google/n8Gve9WwhUkKEgEk7"
+# apply_url : "https://forms.gle/MUiS3cRR363ChKjR7"
 # type
 type: "lab"
 ---
