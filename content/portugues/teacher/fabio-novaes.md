@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Sobre o Professor **Fábio Magalhães De Novaes Santos**"
 # teacher portrait
-image: "images/teachers/fabio-novaes.jpg"
+image: "images/teachers/fabio-novaes2.jpg"
 # course
 course: "Física"
 # biography
