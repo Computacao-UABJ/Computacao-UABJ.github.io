@@ -8,7 +8,7 @@ description : "Sobre o Professor **Fábio Magalhães De Novaes Santos**"
 # teacher portrait
 image: "images/teachers/fabio-novaes2.jpg"
 # course
-course: "Física"
+course: "Básicas da Engenharia"
 # biography
 bio: "Físico matemático com experiência em gravitação e física de altas energias. Co-descobridor de um método para calcular modos quasinormais de ondas gravitacionais de buracos negros. Professor adepto de métodos de aprendizagem ativa. Cientista de dados entusiasta, interessado em análise estatística de dados, inferência causal e aprendizagem de máquina."
 # interest
