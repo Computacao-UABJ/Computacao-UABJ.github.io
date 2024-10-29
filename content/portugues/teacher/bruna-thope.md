@@ -12,7 +12,7 @@ course: "Básicas da Engenharia"
 # biography
 bio: "Graduada em Letras - Inglês e Mestre em Ciências da Linguagem (UERN), atuou como professora na UFERSA e UERN. Atualmente, é professora efetiva na UFRPE (UABJ), com foco em Língua Inglesa, Metodologia, Metodologias Ativas e gêneros discursivos no Círculo de Bakhtin."
 # interest
-interest: ["Programação","Redes de Computadores","Desenvolvimento de Software"]
+interest: ["Inglês","Metodologias Ativas"]
 # contact info
 contact:
   # contact item loop
