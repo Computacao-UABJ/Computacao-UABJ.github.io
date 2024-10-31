@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Sobre o Professor **Ygor Sena**"
 # teacher portrait
-image: "images/teachers/ygor-sena.jpg"
+image: "images/teachers/ygor-sena.png"
 # course
 course: "Engenharia da Computação"
 # biography

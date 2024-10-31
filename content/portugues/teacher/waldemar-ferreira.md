@@ -1,14 +1,14 @@
 ---
-title: "Waldemar Neto"
+title: "Waldemar Ferreira"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Sobre o Professor **Waldemar Ferreira Neto**"
 # teacher portrait
-image: "images/teachers/waldemar-ferreira.jpg"
+image: "images/teachers/waldemar-ferreira.png"
 # course
-course: "Engenharia da Computação"
+course: "Coordenação"
 # biography
 bio: "Possui uma sólida experiência acadêmica e profissional, combinando conhecimento teórico aprofundado com prática no campo. Ele é especializado em Engenharia de Software, com diversas publicações e pesquisas em sua área, além de ter atuado na indústria."
 # interest

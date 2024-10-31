@@ -1,12 +1,12 @@
 ---
-title: "José Ramos Araujo Dos Santos"
+title: "José Ramos"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Sobre o Professor **José Ramos**"
 # teacher portrait
-image: "images/teachers/jose-ramos.gif"
+image: "images/teachers/jose-ramos.png"
 # course
 course: "Básicas da Engenharia"
 # biography

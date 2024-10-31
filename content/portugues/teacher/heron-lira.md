@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Sobre o Professor **Heronilton Lira**"
 # teacher portrait
-image: "images/teachers/heron-lira.jpeg"
+image: "images/teachers/heron-lira.png"
 # course
 course: "Básicas da Engenharia"
 # biography

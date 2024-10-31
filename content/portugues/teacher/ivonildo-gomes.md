@@ -1,12 +1,12 @@
 ---
-title: "Ivonildo Pereira Gomes Neto"
+title: "Ivonildo Gomes"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Sobre o Professor **Ivonildo Gomes Neto**"
 # teacher portrait
-image: "images/teachers/ivonildo-gomes.jpg"
+image: "images/teachers/ivonildo-gomes.png"
 # course
 course: "Engenharia da Computação"
 # biography

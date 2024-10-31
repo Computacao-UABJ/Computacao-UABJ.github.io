@@ -1,12 +1,12 @@
 ---
-title: "Juliana Chagas Rodrigues"
+title: "Juliana Chagas"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Sobre o Professor **Juliana Chagas Rodrigues**"
 # teacher portrait
-image: "images/teachers/juliana-chagas.gif"
+image: "images/teachers/juliana-chagas.png"
 # course
 course: "Básicas da Engenharia"
 # biography

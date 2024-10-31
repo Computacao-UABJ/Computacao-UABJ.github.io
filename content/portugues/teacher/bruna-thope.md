@@ -1,5 +1,5 @@
 ---
-title: "Bruna Gabrieli Morais Da Silva Thorpe"
+title: "Bruna Thorpe"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
